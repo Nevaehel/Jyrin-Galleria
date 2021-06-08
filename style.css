@@ -49,7 +49,31 @@ img {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin: 100px;
 }
+#box-1 {
+  width: 100px;
+  height: 100px;
+  background: red;
+}
 
+#box-2 {
+  width: 100px;
+  height: 100px;
+  background: blue;
+}
+
+#box-3 {
+  width: 100px;
+  height: 100px;
+  background: green;
+}
+
+div {
+  display: inline-block;
+}
+
+body {
+  background: #efefef;
+}
 
   }
   
