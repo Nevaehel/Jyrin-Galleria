@@ -55,17 +55,20 @@ padding-right: 10px;
     
 }
 #box1 {
+    display: inline-block;
     width: 80px;
     height: 80px;
     float:left;
 }
 #box2 {
+    display: inline-block;
     width: 80px;
     height: 80px;
     float:left;
     margin-left: 10px;
 }
 #box3 {
+    display: inline-block;
     width: 80px;
     height: 80px;
     float:right;
