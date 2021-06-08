@@ -20,8 +20,8 @@
     <div id="box2">
       <a href="https://www.instagram.com/jyrtsiii/" target="_blank"><img src="https://cdn.discordapp.com/attachments/247460659829276672/851851468608241674/instagram-logo.png"></a>
       </div>
-  
-    <div ="box3">
+      
+    <div id="box3">
       <a href="https://www.twitch.tv/jyrtsiii" target="_blank"><img src="https://cdn.discordapp.com/attachments/247460659829276672/851853460881801266/cb3a3f13cf3d73572cdb684b03d1fad7.jpg"></a>
       </div>
   
