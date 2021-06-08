@@ -58,21 +58,15 @@ img {
 }
 #box1 {
     display: inline-block;
-    width: 80px;
-    height: 80px;
     padding: 5%;
 }
 #box2 {
     display: inline-block;
-    width: 80px;
-    height: 80px;
     padding: 5%;
     
 }
 #box3 {
     display: inline-block;
-    width: 80px;
-    height: 80px;
     padding: 5%;
 }
   }
