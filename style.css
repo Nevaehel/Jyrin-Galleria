@@ -4,9 +4,9 @@ body {
     background: #071828;
     background-image: url('bg1.jpg');
     background-size: cover;
-    padding: 100px;
+    padding: 10px;
     font-family: 'Open Sans', sans-serif;
-    color: #000;
+    color: #ffffff;
     font-size: 100pt;
     display: grid;
     align-items: center;
@@ -29,7 +29,7 @@ h1 {
     grid-row-start: 1;
     grid-column-start: 1;
     grid-column-end: 3;
-    color: rgb(104, 85, 57);
+    color: rgb(255, 255, 255);
     font-size: 100pt;
     font-family: 'Playfair Display', sans-serif;
   
