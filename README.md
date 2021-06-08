@@ -1,9 +1,8 @@
 <hmtl>
   
   <head>
-  <title> Jyrin Galleria </title>
-    
-   
+  <title> Jyrin Galleria </title> 
+  <link rel="stylesheet" href="style.css">
   </head>
 
   <h1>  </h1>
