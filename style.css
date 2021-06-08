@@ -50,20 +50,20 @@ img {
     margin: 100px;
 }
 #box-1 {
-  width: 100px;
-  height: 100px;
+  width: 1px;
+  height: 1px;
   background: red;
 }
 
 #box-2 {
-  width: 100px;
-  height: 100px;
+  width: 1px;
+  height: 1px;
   background: blue;
 }
 
 #box-3 {
-  width: 100px;
-  height: 100px;
+  width: 1px;
+  height: 1px;
   background: green;
 }
 
@@ -72,7 +72,7 @@ div {
 }
 
 body {
-  background: #efefef;
+  background: #071828;
 }
 
   }
