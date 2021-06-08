@@ -12,7 +12,10 @@
       <a href="https://www.instagram.com/jyrtsiii/"> Instagram </a>
       <a href="https://www.twitch.tv/jyrtsiii"> Twitch </a>
 
+      <div id="largebox">
       
+      </div>
+    
      <div id="box1">
        <a href="https://twitter.com/15G_Priced_Lamp" target="_blank"><img src="https://cdn.discordapp.com/attachments/247460659829276672/851852781098893342/sdfdssdf.png"></a>
       </div>
