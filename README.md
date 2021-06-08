@@ -13,7 +13,7 @@
       <a href="https://www.instagram.com/jyrtsiii/"> Instagram </a>
       <a href="https://www.twitch.tv/jyrtsiii"> Twitch </a>
 
-      <a href="https://www.instagram.com/jyrtsiii/"><img src="https://www.freepnglogos.com/pics/instagram-logo-png"></a>
+      <a href="https://www.instagram.com/jyrtsiii/"><img src="https://cdn.discordapp.com/attachments/247460659829276672/851851468608241674/instagram-logo.png"></a>
       
    
     </body>
