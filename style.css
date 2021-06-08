@@ -50,20 +50,20 @@ img {
     margin: 100px;
 }
 #box-1 {
-  width: 1px;
-  height: 1px;
+  width: 80px;
+  height: 80px;
   background: red;
 }
 
 #box-2 {
-  width: 1px;
-  height: 1px;
+  width: 80px;
+  height: 80px;
   background: blue;
 }
 
 #box-3 {
-  width: 1px;
-  height: 1px;
+  width: 80px;
+  height: 80px;
   background: green;
 }
 
