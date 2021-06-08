@@ -45,9 +45,9 @@ img {
     grid-column-start: 1;
     max-width: 200px;
     max-height: 200px;
-    border-radius: 10px;
+    border-radius: 1px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin: 50px;
+    margin: 1px;
 }
 
 ul {
