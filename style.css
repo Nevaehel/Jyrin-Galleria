@@ -46,11 +46,13 @@ img {
 
 }
 #largebox {
-width: 800px;
-height: 800px;
-padding-top: 20px;
-padding-left: 10px;
-padding-right: 10px;
+    width: 800px;
+    height: 800px;
+    padding-top: 4%;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
     
     
 }
@@ -58,20 +60,20 @@ padding-right: 10px;
     display: inline-block;
     width: 80px;
     height: 80px;
-    float:left;
+    padding: 5%;
 }
 #box2 {
     display: inline-block;
     width: 80px;
     height: 80px;
-    float:left;
-    margin-left: 10px;
+    padding: 5%;
+    
 }
 #box3 {
     display: inline-block;
     width: 80px;
     height: 80px;
-    float:right;
+    padding: 5%;
 }
   }
   
