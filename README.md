@@ -5,7 +5,7 @@
   <link rel="stylesheet" href="style.css">
   </head>
 
-  <h1>  </h1>
+  <h1> Jyrtsi's Galleria </h1>
 
     <body>
       <a href="https://twitter.com/15G_Priced_Lamp"> Twitter </a>
