@@ -52,18 +52,21 @@ img {
 #box-1 {
   width: 80px;
   height: 80px;
+     display: inline;
   
 }
 
 #box-2 {
   width: 80px;
   height: 80px;
+     display: inline;
   
 }
 
 #box-3 {
   width: 80px;
   height: 80px;
+     display: inline;
 
 }
 
