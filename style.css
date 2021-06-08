@@ -48,22 +48,27 @@ img {
 #largebox {
 width: 800px;
 height: 800px;
+padding-top: 20px;
+padding-left: 10px;
+padding-right: 10px;
+    
     
 }
 #box1 {
     width: 80px;
     height: 80px;
-    float:left
+    float:left;
 }
 #box2 {
     width: 80px;
     height: 80px;
-    float:left
+    float:left;
+    margin-left: 10px;
 }
 #box3 {
     width: 80px;
     height: 80px;
-    float:right
+    float:right;
 }
   }
   
