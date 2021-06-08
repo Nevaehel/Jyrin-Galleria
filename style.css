@@ -1,12 +1,14 @@
-@import url('https://cdn.discordapp.com/attachments/247460659829276672/851856787129106452/bg1.jpg');
+h1 {
+    font-size: 1px;
 
+
+}
 body {
     background: #071828;
-    background-image: url('bg1.jpg');
     background-size: cover;
     padding: 5%;
     font-family: 'Open Sans', sans-serif;
-    font-size: 100pt;
+    font-size: 100px;
     color: #000000; 
     align-items: space-evenly;
     background-repeat: no-repeat;
