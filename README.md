@@ -1,6 +1,6 @@
 <hmtl>
   
-  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title> Jyrin Galleria </title> 
   <link rel="stylesheet" href="style.css">
   
@@ -16,15 +16,15 @@
       
     
      <div id="box1">
-       <a href="https://twitter.com/15G_Priced_Lamp" target="_blank"><img src="/Jyrin-Galleria/twitterlogo.png" alt="Twitter"></a>
+       <a href="https://twitter.com/15G_Priced_Lamp" target="_blank"><img src="../Jyrin-Galleria/twitterlogo.png" alt="Twitter"></a>
       </div>
       
     <div id="box2">
-      <a href="https://www.instagram.com/jyrtsiii/" target="_blank"><img src="/Jyrin-Galleria/instagramlogo.png" alt="instagram"></a>
+      <a href="https://www.instagram.com/jyrtsiii/" target="_blank"><img src="../Jyrin-Galleria/instagramlogo.png" alt="instagram"></a>
       </div>
       
     <div id="box3">
-      <a href="https://www.twitch.tv/jyrtsiii" target="_blank"><img src="/Jyrin-Galleria/twitchlogo.jpg" alt="Twitch"></a>
+      <a href="https://www.twitch.tv/jyrtsiii" target="_blank"><img src="../Jyrin-Galleria/twitchlogo.jpg" alt="Twitch"></a>
       </div>
 
   
