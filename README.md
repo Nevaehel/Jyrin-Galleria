@@ -1,14 +1,14 @@
 <hmtl>
   
-  <head>
+  
   <title> Jyrin Galleria </title> 
   <link rel="stylesheet" href="style.css">
-  </head>
+  
 
 
   <h1> Jyrtsi's Galleria </h1>
 
-   <body>
+<body>
       <a href="https://twitter.com/15G_Priced_Lamp"> Twitter </a>
       <a href="https://www.instagram.com/jyrtsiii/"> Instagram </a>
       <a href="https://www.twitch.tv/jyrtsiii"> Twitch </a>
