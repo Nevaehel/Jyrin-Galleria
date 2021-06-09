@@ -86,7 +86,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
     <span class="close">&times;</span>
     <img src="https://cdn.discordapp.com/attachments/247460659829276672/852207162699939902/Z.png" alt="Oh!">
     
-    <img src=https://cdn.discordapp.com/attachments/247460659829276672/852211601327128637/Ir_1_of_1.jpg>
+    <img src="https://cdn.discordapp.com/attachments/247460659829276672/852211601327128637/Ir_1_of_1.jpg">
     
     
     
