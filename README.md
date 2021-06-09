@@ -7,7 +7,7 @@
 
   <h1> Jyrtsi's Galleria </h1>
 
-    <body>
+   <body>
       <a href="https://twitter.com/15G_Priced_Lamp"> Twitter </a>
       <a href="https://www.instagram.com/jyrtsiii/"> Instagram </a>
       <a href="https://www.twitch.tv/jyrtsiii"> Twitch </a>
@@ -25,6 +25,7 @@
     <div id="box3">
       <a href="https://www.twitch.tv/jyrtsiii" target="_blank"><img src="https://cdn.discordapp.com/attachments/247460659829276672/851853460881801266/cb3a3f13cf3d73572cdb684b03d1fad7.jpg"></a>
       </div>
+     
   </body>
   
 <head>
@@ -40,8 +41,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
   padding-top: 100px; /* Location of the box */
   left: 0;
   top: 0;
-  width: 10%; 
-  height: 10%; 
+  width: 100%; 
+  height: 100%; 
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
