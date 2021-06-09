@@ -26,12 +26,12 @@
       <a href="https://www.twitch.tv/jyrtsiii" target="_blank"><img src="https://cdn.discordapp.com/attachments/247460659829276672/851853460881801266/cb3a3f13cf3d73572cdb684b03d1fad7.jpg"></a>
       </div>
      
-  </body>
+
   
 <head>
    <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {font-family: Arial, Helvetica, sans-serif;}
+ {font-family: Arial, Helvetica, sans-serif;}
 
 /* The Modal (background) */
 .modal {
@@ -73,7 +73,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
 }
 </style>
       </head>
-<body>
 
 <h2>Modal Example</h2>
 
