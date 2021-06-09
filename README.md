@@ -3,10 +3,6 @@
   <head>
   <title> Jyrin Galleria </title> 
   <link rel="stylesheet" href="style.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
- {font-family: Arial, Helvetica, sans-serif;}
-</style>
   </head>
 
 
