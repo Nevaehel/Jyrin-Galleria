@@ -3,7 +3,12 @@
   <head>
   <title> Jyrin Galleria </title> 
   <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ {font-family: Arial, Helvetica, sans-serif;}
+</style>
   </head>
+
 
   <h1> Jyrtsi's Galleria </h1>
 
@@ -28,13 +33,6 @@
      
 
   
-<head>
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
- {font-family: Arial, Helvetica, sans-serif;}
-</style>
-      </head>
-
 <h2>Modal Example</h2>
 
 <!-- Trigger/Open The Modal -->
