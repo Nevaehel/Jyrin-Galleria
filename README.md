@@ -28,7 +28,7 @@
       </div>
   
   
-
+<head>
    <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {font-family: Arial, Helvetica, sans-serif;}
@@ -72,8 +72,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
   cursor: pointer;
 }
 </style>
-
-
+      </head>
+<body>
 
 <h2>Modal Example</h2>
 
@@ -128,6 +128,5 @@ window.onclick = function(event) {
 
       
   </body>
-    
-    
+  
 <hmtl>
