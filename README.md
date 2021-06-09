@@ -16,15 +16,15 @@
       
     
      <div id="box1">
-       <a href="https://twitter.com/15G_Priced_Lamp" target="_blank"><img src="/images/twitterlogo.png"></a>
+       <a href="https://twitter.com/15G_Priced_Lamp" target="_blank"><img src="/images/twitterlogo.png" alt="Twitter"></a>
       </div>
       
     <div id="box2">
-      <a href="https://www.instagram.com/jyrtsiii/" target="_blank"><img src="/images/instagramlogo.png"></a>
+      <a href="https://www.instagram.com/jyrtsiii/" target="_blank"><img src="/images/instagramlogo.png" alt="instagram"></a>
       </div>
       
     <div id="box3">
-      <a href="https://www.twitch.tv/jyrtsiii" target="_blank"><img src="/images/twitchlogo.jpg"></a>
+      <a href="https://www.twitch.tv/jyrtsiii" target="_blank"><img src="/images/twitchlogo.jpg" alt="Twitch"></a>
       </div>
 
   
