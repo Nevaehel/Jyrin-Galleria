@@ -44,7 +44,7 @@
     
     
     
-   <img src="../Jyrin-Galleria/instagramlogo.png" alt="Img1"></a>
+   <img src="../Jyrin-Galleria/Ircrop.jpg" alt="Ircrop"></a>
     
     
     
