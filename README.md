@@ -41,7 +41,14 @@
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
-    <p>Some text in the Modal..</p>
+    
+    
+    
+   <img src="../Jyrin-Galleria/instagramlogo.png" alt="Img1"></a>
+    
+    
+    
+    
   </div>
 
 </div>
