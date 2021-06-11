@@ -44,7 +44,7 @@
     
     
     
-   <img src="../Jyrin-Galleria/Ircrop.jpg" alt="Ircrop"></a>
+   <img src="../Jyrin-Galleria/Ircrop.jpg" alt="Ircrop">
     
     
     
